@@ -1,0 +1,35 @@
+body{
+    display: flex;
+}
+
+.contenedor {
+    border: 1px solid rgb(248, 204, 236);
+    margin: 0 auto;
+    width: 60%;
+    background:#fff;
+    padding: 10px;
+}
+
+.principal {
+    background: #e3308d;
+    padding: 10px;
+}
+
+.img{
+    width: 100px;
+    height: 150px;
+}
+
+.header{
+    display: flex;
+}
+
+.nombre{
+    margin-left: 40px;
+    width: 100%;
+}
+
+.título{
+    border: 2px solid rgb(248, 204, 236)
+}
+
